@@ -1,0 +1,81 @@
+[
+    {
+        "id": "yoda",
+        "name": "Yoda",
+        "rank": "Grandmaster",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/d/d1/RotS-Yoda.png/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "windu",
+        "name": "Mace Windu",
+        "rank": "Head of Jedi Council",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/f/fc/Mace_Windu.jpg/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "rancisis",
+        "name": "Oppo Rancisis",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/4/40/Oppo_rancisis2.jpg/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "billaba",
+        "name": "Depa Billaba",
+        "rank": "Master"
+    },
+    {
+        "id": "mundi",
+        "name": "Ki-Adi-Mundi",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "plo-clone",
+        "name": "Plo Koon",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "tiin",
+        "name": "Saesee Tiin",
+        "rank": "Master"
+    },
+    {
+        "id": "ti",
+        "name": "Shaak Ti",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/4/44/Shaak_Ti_Big_Headshot.jpg/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "fisto",
+        "name": "Kit Fisto",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/1/17/KitFisto-SithSnapshot.jpg/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "the-hot-wan",
+        "name": "Obi-Wan Kenobi",
+        "rank": "Master",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/5/59/ObiWan.png/revision/latest/scale-to-width-down/125"
+    },
+    {
+        "id": "allie",
+        "name": "Stass Allie",
+        "rank": "Master"
+    },
+    {
+        "id": "kcaj",
+        "name": "Coleman Kcaj",
+        "rank": "Master"
+    },
+    {
+        "id": "kolar",
+        "name": "Agen Kolar",
+        "rank": "Master"
+    },
+    {
+        "id": "skywalker",
+        "name": "Anakin Skywalker",
+        "rank": "Knight",
+        "imageUrl": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest/scale-to-width-down/125"
+    }
+]
